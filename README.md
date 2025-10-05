@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.
+# Data-Analysis-Dashboard (Interactive Dashboard creation using MS Excel)
+To analyze hotel booking cancellation patterns and guest demographics across different years and months to identify key drivers and inform revenue management strategies.
+
+# Dataset Used
