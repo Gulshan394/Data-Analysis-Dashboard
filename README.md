@@ -51,12 +51,6 @@ The goal of this project is to analyze hotel booking data and identify trends re
 This project helped me learn how to transform raw data into meaningful insights through visualization.  
 It’s a simple yet practical example of using Excel for **data analytics and business intelligence**.  
 
----
-
-## 🚀 Future Improvements  
-- Recreate this dashboard in **Power BI** or **Tableau** for more dynamic visuals.  
-- Add **automated data updates** using Power Query or Python.  
-- Perform deeper analysis using **statistical or predictive models**.  
 
 ---
 
