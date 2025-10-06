@@ -42,8 +42,8 @@ The goal of this project is to analyze hotel booking data and identify trends re
 
 ---
 
-## 📸 Dashboard Preview  
-![Hotel Booking Dashboard](Screenshot261.png)
+<img width="1546" height="581" alt="Screenshot (261)" src="https://github.com/user-attachments/assets/d6fe9200-3ce2-45f2-a8e9-20e0c8c6b62a" />
+
 
 ---
 
